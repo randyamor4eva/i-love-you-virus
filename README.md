@@ -1,181 +1,120 @@
-# GTA-San Andreas-cheat codes
-Play un·bear·a·ble
-
-MIAMITRAFFIC 	  -     Aggressive Drivers
-
-THUGTOOLS	-          All "light weapon"
-
-NUTTERTOOLS	  -  All ''heavy'' weapons
-
-PROFESSIONALTOOLS   	-  All ''medium'' weapons
-
-IWANTITPAINTEDBLACK	  -  All cars are black
-
-AHAIRDRESSERSCAR	 -     All cars are pink
-
-GREENLIGHT      -  	All traffic lights are green
-
-BIGBANG	       -      Blow up nearby cars
-
-IWANTBIGTITS    -   	Candy Suxxx (Pornstar)
-
-SEAWAYS	  -      Cars can drive/hover over water
-
-COMEFLYWITHME	 -    Cars can fly
-
-STILLLIKEDRESSINGUP	 -   Change Skin/Clothes
-
-ICANTTAKEITANYMORE	 -    Commit Suicide
-
-LEAVEMEALONE  -  	Decrease Wanted Level
-
-ABITDRIEG	  -      Dense Clouds
-
-AIRSHIP	    -     Fast boats can fly for short periods of time
-
-CANTSEEATHING    -    	Foggy Weather
-
-PRECIOUSPROTECTION   -    	Full Armor
-
-ASPIRINE	    -       Full Health
-
-CHICKSWITHGUNS	-       Girls Carry Guns
-
-PROGRAMMER   -   	Gives Tommy girly arms/legs
-
-FANNYMAGNET  -	Ladies Man, Women Follow You
-
-APLEASANTDAY	  -   Light Clouds
-
-ONSPEED	  -   Makes everything faster
-
-BOOOOOORING	 -   Makes everything slower
-
-DEEPFRIEDMARSBARS	   -     Makes Tommy fatter
-
-CERTAINDEATH	 -      Makes you smoke a cigarette
-
-WHEELSAREALLINEED	   -    Only the wheels of a car are visible
-
-OURGODGIVENRIGHTTOBEARARMS    -  	Peds Carry Guns
-
-NOBODYLIKESME	    -     Peds Hate You
-
-FIGHTFIGHTFIGHT	    -     Peds Riot
-
-GRIPISEVERYTHING    -  	Perfect Handling
-
-ILOOKLIKEHILARY	  -      Play as Hilary King
-
-MYSONISALAWYER	  -  Play as Ken Rosenberg
-
-LOOKLIKELANCE	   -      Play as Lance Vance
-
-WELOVEOURDICK	    -  Play as Love Fist character (Dick)
-
-ROCKANDROLLMAN	   -      Play as Love Fist character (Jezz Torent)
-
-FOXYLITTLETHING	      -      Play as Mercedes
-
-ONEARMEDBANDIT        -      	Play as Phil Cassidy
-
-CHEATSHAVEBEENCRACKED	     -      Play as Ricardo Diaz
-
-IDONTHAVETHEMONEYSONNY	    -       Play as Sonny Forelli
-
-YOUWONTTAKEMEALIVE	     -           Raise Wanted Level
-
-CHASESTAT	      -         Shows Media Level (when 2+ stars)
-
-TRAVELINSTYLE	    -      Spawn a Bloodring Banger
-
-GETTHEREQUICKLY	      -       Spawn a Bloodring Banger #2
-
-BETTERTHANWALKING	  -      Spawn a Caddie
-
-GETTHEREVERYFASTINDEED      -  	Spawn a Hotring Racer
-
-GETTHEREAMAZINGLYFAST    -   	Spawn a Hotring Racer #2
-
-PANZER	   -    Spawn a Rhino
-
-THELASTRIDE     -    	Spawn a Romero's Hearse
-
-GETTHEREFAST	  -     Spawn a Sabre Turbo
-
-RUBBISHCAR	  -       Spawn a Trashmaster
-
-ROCKANDROLLCAR	-    Spawn Love Fist's Limo
-
-LIFEISPASSINGMEBY     -     	Speed up game clock
-
-LOADSOFLITTLETHINGS	    -     Sportscars have big wheels
-
-CATSANDDOGS     -     	Stormy Weather
-
-ALOVELYDAY      -     	Sunny/Clear Weather
-
-
-
-
-
-
-Result	Cheat Code
-Health [Note 1]	          aspirine
-Armor	                           preciousprotection
-Weapons (tier 1)	          thugstools
-Weapons (tier 2)	          professionaltools
-Weapons (tier 3)	          nuttertools
-Raise wanted level    	youwonttakemealive
-Lower wanted level   	leavemealone
-View media level when over two stars          	chasestat
-Better driving skills	      gripiseverything
-Dodo cars (flying) [Note 2]	     comeflywithme
-Rhino tank              	   panzer
-Faster game clock	      lifeispassingmeby
-Faster game play	      onspeed
-Slower game play     	booooooring
-Destroy all cars         	bigbang
-Pedestrians riot	          fightfightfight
-Pedestrians attack you	   nobodylikesme
-Pedestrians have weapons	   ourgodgivenrighttobeararms
-Pedestrians enter your car    	hopingirl
-Change wheel size	       loadsoflittlethings
-Only wheels visible on cars	wheelsareallineed
-Bikini women with guns [Note 3]	chickswithguns
-Heavy traffic	          miamitraffic
-Pink traffic               	ahairdresserscar
-Black traffic              	iwantitpaintedblack
-All traffic lights green    	greenlight
-Romero's Hearse	     thelastride
-Love Fist Limousine	    rockandrollcar
-Trashmaster	          bbrubbishcar
-Bloodring Banger (style 1)    	travelinstyle
-Bloodring Banger (style 2)	    gettherequickly
-Caddy	                  betterthanwalking
-
-Pedestrian costumes [Note 4]	         stilllikedressingup
-Lance Vance costume    	looklikelance
-Ken Rosenberg costume	  mysonisalawyer
-Hilary King costume      	ilooklikehilary
-Jezz Torent (Love Fist) costume	rockandrollman
-Dick (Love Fist) costume    	weloveourdick
-Phil Cassaday costume	      onearmedbandit
-Sonny Forelli costume	idonthavethemoneysonny
-Mercedes costume          	foxylittlething
-Cars float on water	             seaways
-Engines are faster	getthereveryfastindeed
-Engines very fast	   getthereamazinglyfast
-All cars are faster	           gettherefast
-Tommy groupies [Note 5]    	fannymagnet
-Ricardo Diaz costume	cheatshavebeencracked
-Tommy smokes cigarette     	certaindeath
-Tommy is fatter      	deepfriedmarsbars
-Tommy has thin arms and legs	programmer
-Good weather       	  apleasantday
-Great weather	         alovelyday
-Sunny weather	      abitdrieg
-Stormy weather	      catsanddogs
-Foggy weather	      cantseeathing
-Reguard target	      airship
-Commit suicide     	icanttakeitanymore
+<html>
+<head>
+	<title>Lab</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+</head>
+
+<style type="text/css">
+td{
+	border: 1px solid black;
+	padding-right: 80px;
+}
+body{
+  margin-top: 40px;
+}
+button{
+  float: left;
+  margin-left: 10px;
+}
+h1{
+  margin-left: 450px;
+  float: left;
+}
+table{
+  float: left;
+  margin-left: 350px;
+}
+</style>
+
+<body>
+	<button type="button" class="btn btn-info btn-md" data-toggle="modal" data-target="#myModal">Add Student</button>
+
+<!-- Modal -->
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Add Student Information</h4>
+      </div>
+      <div class="modal-body">
+        <form name = "form1">
+        <h5>ID Number</h5>
+        <input type = "text" class = "form-control" value = "2019000" id = "ID" disabled>
+        <h5>Last Name</h5>
+        <input type = "text" class = "form-control" name = "" id = "lname">
+        <h5>First Name</h5>
+        <input type = "text" class = "form-control" name = "" id ="fname">
+        <h5>Middle Name</h5>
+        <input type = "text" class = "form-control" name = "" id = "mname">
+        <h5>Course</h5>
+        <input type = "text" class = "form-control" name = "" id = "course">
+        <h5>Year</h5>
+        <input type = "text" class = "form-control" name = "" id = "year">
+        
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" onclick="add()" data-dismiss = "modal">Add Student</button>
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+       </form>
+      </div>
+    </div>
+
+  </div>
+</div>
+    <button type="button" class="btn btn-danger" onclick="del()">Delete</button>	
+<center>
+
+	<h1>Student Information</h1>
+<div class="col-md-9">       
+        <table class="table table-bordered">
+      <thead>
+<tr>
+<td>Id Number</td>
+<td>Last Name</td>
+<td>First Name</td>
+<td>Middle Name</td>
+<td>Course</td>
+<td>Year</td>
+</tr>
+</thead>
+<tbody id = "tbody" ></tbody>
+</table>
+</center>
+
+<script type="text/javascript">
+    var ID=2019001;
+
+  function add(){
+    
+      var a = document.getElementById("lname").value;
+      var b = document.getElementById("fname").value;
+      var c = document.getElementById("mname").value;
+      var d = document.getElementById("course").value;
+      var e = document.getElementById("year").value;
+
+      var x = document.createElement("tr");
+      x.innerHTML="<td>"+ID+"</td><td>"+a+"</td>"+"<td>"+b+"</td>"+"<td>"+c+"</td>"+"<td>"+d+"</td>"+"<td>"+e+"</td>";
+      document.getElementById("tbody").appendChild(x);
+      ++ID;
+      var count = document.getElementById("ID");
+      count.value = ID;
+      
+      document.getElementById("lname").value = "";
+      document.getElementById("fname").value  = "";
+      document.getElementById("mname").value  = "";
+      document.getElementById("course").value  = "";
+      document.getElementById("year").value = "";  
+    }
+    function del(){
+      var y = document.getElementById("tbody");
+        y.removeChild(tbody.lastChild);
+    }
+</script>
+</body>
+</html>
